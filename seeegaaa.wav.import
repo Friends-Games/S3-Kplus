@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/seeegaaa.wav-8bb6ac02f76755b40e60e9927e2872a7.sample"
+
+[deps]
+
+source_file="res://seeegaaa.wav"
+dest_files=[ "res://.import/seeegaaa.wav-8bb6ac02f76755b40e60e9927e2872a7.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
